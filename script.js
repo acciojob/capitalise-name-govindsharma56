@@ -4,3 +4,6 @@ function search(e){
 			e.target.value=e.target.value.toUpperCase();
 		}
   }
+function convertUppercase(e){
+			e.target.value=e.target.value.toUpperCase();
+  }
